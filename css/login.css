@@ -1,0 +1,17 @@
+section#login{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 20rem;
+    height: 20rem;
+    border-color: black;
+    border-radius: 5%;
+    border-style: solid;
+}
+
+.login{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}

@@ -1,0 +1,36 @@
+main{
+    margin: 2rem;
+}
+
+footer{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 100%;
+    height: 5rem;
+    background-color: black;
+    color: white;
+}
+
+#aProducts{
+    text-decoration: none !important;
+    color: black !important;
+}
+
+#aProducts:hover{
+    color: blue !important;
+}
+
+#aContact{
+    text-decoration: none !important;
+    color: white !important;
+}
+
+#aContact:hover{
+    color: blue !important;
+}
+
+a{
+    text-decoration: none !important;
+    color: white !important;
+}
